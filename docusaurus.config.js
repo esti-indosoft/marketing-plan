@@ -23,12 +23,12 @@ const config = {
   url: 'https://esti-indosoft.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/marketing-plan/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'esti-indosoft', // Usually your GitHub org/user name.
-  projectName: 'esti-indosoft.github.io', // Usually your repo name.
+  projectName: 'marketing-plan', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   trailingSlash: false,
