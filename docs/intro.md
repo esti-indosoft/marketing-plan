@@ -11,8 +11,7 @@ slug: /
 
 As AI-driven platforms such as Google’s SGE, Bing Copilot, and ChatGPT continue to advance, the way users discover content and make buying decisions is fundamentally shifting.
 
-According to recent research from Gartner (https://www.searchenginejournal.com/why-generative-ai-isnt-killing-seo-its-creating-new-opportunities/549678/) and Pew (https://www.pewresearch.org/data-labs/2025/05/23/what-web-browsing-data-tells-us-about-how-ai-appears-online/), 
-
+According to recent research from [Gartner](https://www.searchenginejournal.com/why-generative-ai-isnt-killing-seo-its-creating-new-opportunities/549678/) and [Pew](https://www.pewresearch.org/data-labs/2025/05/23/what-web-browsing-data-tells-us-about-how-ai-appears-online/), 
 a growing share of users now rely on AI assistants for early product research, often bypassing traditional search engines altogether. This compresses the buyer’s journey and challenges long-held assumptions about how and where prospects engage with brands online.
 
 While SEO remains foundational, brands can no longer rely solely on search engines to generate visibility and leads. Social media now plays a critical role in visibility strategies, allowing companies to directly reach, engage, and retarget decision makers especially in B2B sectors.
